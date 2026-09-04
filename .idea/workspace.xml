@@ -4,117 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea6211bf-547d-4c5b-83de-eb6267a0c81a" name="Changes" comment="Initial Java practice code">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayElementSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/twoDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/RandomClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/hashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditions/EnhancedSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dates/DateAndTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/Enums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/filehandling/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/filehandling/Write.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/filehandling/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/filehandling/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Aggregation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/AnimalClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/ArrayOfObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Caar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/CatClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/DogClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Friend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/GettersSetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Hawk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Jeep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Organism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/OverloadedConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/PlantClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Prey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/RuntimePolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/anonymous/Anonymous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/anonymous/Dogg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/arrayCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/newBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/newBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/newCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/newStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/newVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/toString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/AlarmClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/AudioPlayer_Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/BankingProgramProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/CompoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/CountDownTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/DiceRollerProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/Final_Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/HangmanGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/JavaArrayQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/MadLibsGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/NumberGussingName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/RockPaperScissorsGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/ShoppingCartProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/SlotMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/TemperatureConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/WeightConverstion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/substringMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threading/Multithreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threading/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threading/Threading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threading/newMyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timers/Timer_TimerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wrapper_classes/WrapperClasses.java" afterDir="false" />
-    </list>
+    <list default="true" id="ea6211bf-547d-4c5b-83de-eb6267a0c81a" name="Changes" comment="Initial Java practice code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ayan/IdeaProjects/MyFirstProject&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "C:/Users/ayan/IdeaProjects/MyFirstProject",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ayan\IdeaProjects\MyFirstProject/src/filehandling" />
@@ -213,7 +103,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/projects/BankingProgramProject.java</url>
           <line>49</line>
-          <properties class="BankingProgramProject" method="showBalance">
+          <properties class="projects.BankingProgramProject" method="showBalance">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -222,7 +112,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/projects/SlotMachine.java</url>
           <line>74</line>
-          <properties class="SlotMachine" method="spinRow">
+          <properties class="projects.SlotMachine">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
